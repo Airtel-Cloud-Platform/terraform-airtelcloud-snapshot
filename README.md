@@ -12,6 +12,7 @@ Terraform module for provisioning Airtel Cloud Compute Snapshots.
 
 ### Basic Example
 
+
 ```hcl
 module "snapshot" {
   source = "Airtel-Cloud-Platform/snapshot/airtelcloud"
