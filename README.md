@@ -23,6 +23,7 @@ module "snapshot" {
 
 ## Inputs
 
+
 | Name | Description | Type | Required |
 |------|-------------|------|----------|
 | compute_id | Compute Instance ID to snapshot | string | Yes |
